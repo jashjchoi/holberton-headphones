@@ -121,7 +121,7 @@ body {
 
 /* Wrapper */
 .wrapper {
-  max-inline-size: 1920px;
+  max-inline-size: 1000px;
   inline-size: 400px;
   margin: 0 auto;
 }
