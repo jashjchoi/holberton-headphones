@@ -149,6 +149,12 @@ body {
   font-family: var(--font-family-base);
 }
 
+.nav-item a:hover {
+  color: var(--primary);
+  transition: ease-out 0.2s;
+  text-decoration: none;
+}
+
 .header-container {
   padding-top: 30px;
 }
